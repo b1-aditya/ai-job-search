@@ -116,3 +116,13 @@ company_research/*.json
 
 # Brainstorm mockups (superpowers visual companion) - never ship
 .superpowers/
+
+CLAUDE.md
+.claude/skills/job-application-assistant/01-candidate-profile.md
+.claude/skills/job-application-assistant/02-behavioral-profile.md
+.claude/skills/job-application-assistant/04-job-evaluation.md
+.claude/skills/job-application-assistant/07-interview-prep.md
+documents/
+cover_letters/*.pdf
+cv/*.pdf
+job_search_tracker.csv
